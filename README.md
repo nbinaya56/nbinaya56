@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nbinaya56
-- 👀 I’m a Data Anylist
+- 👀 I’m a Data Analyst
 - 🌱 I’m currently learning python development
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on facebook and instagram
