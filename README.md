@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nbinaya56
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning app development
+- 👀 I’m a Data Anylist
+- 🌱 I’m currently learning python development
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on facebook and instagram
 - 😄 Pronouns: cartophilic, musicophile
